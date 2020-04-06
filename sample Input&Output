@@ -1,0 +1,5 @@
+first creat file with name file1.txt and type in it ,then
+$gcc vm_command.c
+./a.out file1.txt file2.txt
+$ cat file2.txt
+This file1 that will copy it to file2
